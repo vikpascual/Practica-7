@@ -18,10 +18,6 @@ a {
     font-family:courier;
     font-size:160%;
     }
-section {
-    height: 300px;
-    width: 300px;
-    }
 p.Superior {
     text-align: left;
     }
@@ -35,3 +31,6 @@ img {
     width: 150px;
     height: 150px;
     }
+p {
+	color: darkred;
+}
